@@ -1,4 +1,5 @@
 ![Banner](assets/github_banner.jpg)
 
-## Hi there 👋
+## Hi there, I'm Bianca 👋
 
+---
