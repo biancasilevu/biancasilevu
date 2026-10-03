@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-I'm Bianca, a foundation degree in computing (Software Engineering) student at Belfast Met.
+I'm Bianca, a Foundation Degree in Computing (Software Engineering) student at Belfast Met.
 
 ---
 
