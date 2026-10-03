@@ -1,3 +1,4 @@
-![Banner](assets/banner.png)
+![Banner](assets/github_banner.jpg)
+
 ## Hi there 👋
 
