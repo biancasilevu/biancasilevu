@@ -2,10 +2,12 @@
 
 ## Hi there 👋
 
----
--I'm Bianca, a foundation degree in computing (Software Engineering) student at Belfast Met.
+I'm Bianca, a foundation degree in computing (Software Engineering) student at Belfast Met.
+
 ---
 
-## Skills 
+## Skills
 
--Java, Python, HTML, CSS
+Java, Python, HTML, CSS
+
+---
