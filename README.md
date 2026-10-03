@@ -1,8 +1,8 @@
 ![Banner](assets/github_banner.jpg)
 
-## Hi there 👋
+## Bianca here 👋
 
-I'm Bianca, a Foundation Degree in Computing (Software Engineering) student at Belfast Met.
+Foundation Degree in Computing (Software Engineering) student at Belfast Met.
 
 ---
 
